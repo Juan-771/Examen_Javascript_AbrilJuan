@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+    margin: 0px;
+}
+.foodLogo{
+    width: 40%;
+    margin-top: -5%;
+}
+.buscar{
+    
+    margin-left: 77%;
+    margin-top: 5%;
+    height: 15%;
+    width: 20%;
+}
+.botoncito{
+    color: white;
+    background-color: red;
+    padding: 0%;
+    width: 10%;
+    margin-left: 88%;
+    cursor: pointer;
+    
+}
